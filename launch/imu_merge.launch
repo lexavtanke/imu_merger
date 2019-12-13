@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<launch>
+
+  <node pkg="imu_merger" type="merger.py" name="imu_server" output="screen" clear_params="true">
+
+  </node>
+
+
+</launch>
